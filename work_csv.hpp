@@ -1,6 +1,6 @@
 #ifndef WORKCSV
 #define WORKCSV
-#include <eigen3/Eigen/Dense>
+#include <Eigen/Dense>
 #include <fstream>
 #include <sstream>
 #include <string>

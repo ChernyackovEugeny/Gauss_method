@@ -1,4 +1,4 @@
-#include <eigen3/Eigen/Dense>
+#include <Eigen/Dense>
 #include <random>
 
 std::pair<Eigen::MatrixXd, Eigen::VectorXd> generate(int n, unsigned int seed) {
